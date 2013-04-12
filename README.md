@@ -1,6 +1,7 @@
 # Prestashop responsive theme
 
 This theme is forked from the default prestashop theme of the 1.5.4 version. I used [unsemantic.com](http://unsemantic.com/), which is recommended on [960.gs](http://960.gs/) website, to bring us the power of media queries.
+
 The main reason why I decided to create this theme is that I wanted to offer my customers a mobile view of their shop without having to maintain both mobile and desktop themes. Another advantage is that this theme aims to be a blank theme which can be used by developers to create new themes
 
 ## Modifications made
