@@ -1,7 +1,6 @@
 /* block top currencies */
 #header_right #currencies_block_top {
 	float:right;
-	margin: 0 6px 0 0;
 	padding: 2px 6px;
 	-moz-border-bottom-right-radius: 3px;
 	-moz-border-bottom-left-radius: 3px;

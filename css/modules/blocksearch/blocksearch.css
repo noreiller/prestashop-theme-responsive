@@ -3,12 +3,13 @@
 	position:absolute;
 	top:44px;
 	left:0;
+	right: 50%;
 }
 #search_block_top p {padding:0;}
 #search_block_top #search_query_top {
 	padding:0 5px;
 	height:23px;
-	width:300px;/* 310 */
+	width: 65%;
 	border:1px solid #666;
 	border-right: 0 !important;
 	color:#666;
